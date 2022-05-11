@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-- 🔭 I’m currently working on my Full Stack Developer bootcamp final project (https://github.com/felipenougues/grupo_grupo4_proyecto)
+- 🔭 I’m currently working on my Full Stack Developer bootcamp final project (github.com/felipenougues/grupo_grupo4_proyecto)
 - 🌱 I’m currently learning React & Solidity for Web3 apps!
-- ⚡ I also enjoy working on Data Science challenges (https://www.kaggle.com/stefanobefaro)
-- 📫 How to reach me: https://www.linkedin.com/in/stefanobefaro/
+- ⚡ I also enjoy working on Data Science challenges (kaggle.com/stefanobefaro)
+- 📫 How to reach me: linkedin.com/in/stefanobefaro/
