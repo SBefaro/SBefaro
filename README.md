@@ -14,7 +14,7 @@ A passionate Engineer and Software Developer 🚀.
 
 - **Languages**: 
 
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/js.png" style="max-width:100%;"></code> 
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/tree/main/assets/js.png" style="max-width:100%;"></code> 
   <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/ts.png" style="max-width:100%;"></code>
 
 - **Back-end**
