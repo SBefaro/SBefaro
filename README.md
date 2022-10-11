@@ -6,10 +6,6 @@ A passionate Engineer and Software Developer 🚀.
 -->
 
 
-
-
-
-
 ### Languages and Tools: 🔥
 
 - **Languages**: 
@@ -29,8 +25,8 @@ A passionate Engineer and Software Developer 🚀.
 
 - **Databases**  
 
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/sql.jpg" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/mongodb.jpeg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/sql.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/mongodb.jpeg" style="max-width:100%;"></code>
 
 - **Cloud & Open Source**  
   <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/github.jpg" style="max-width:100%;"></code>
@@ -42,10 +38,8 @@ A passionate Engineer and Software Developer 🚀.
   <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/postman.png" style="max-width:100%;"></code>
   <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/vscode.png" style="max-width:100%;"></code>
 
-- 🔭 I’m currently working on my Full Stack Developer bootcamp final project (https://www.github.com/felipenougues/grupo_grupo4_proyecto)
-- ✨ I usually practise resolving challenges at Frontend Mentor (https://www.frontendmentor.io/profile/SBefaro)
-- 🌱 I’m currently learning React & Solidity for Web3 apps!
-- ⚡ I also enjoy working on Data Science competitions (https://www.kaggle.com/stefanobefaro)
+- 🌱 I’m currently learning about Web3 apps!
+- ⚡ I also enjoy reading about Data Science (https://www.kaggle.com/stefanobefaro)
 - 📫 How to reach me: https://www.linkedin.com/in/stefanobefaro/
 
 <h3 align="left"> Thanks for reading! 🧡</h3>
