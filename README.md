@@ -14,18 +14,18 @@ A passionate Engineer and Software Developer 🚀.
 
 - **Languages**: 
 
-  <code><img height="30" src="https://github.com/SBefaro/SBefaro/tree/main/assets/js.png" style="max-width:100%;"></code> 
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/ts.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/js.png" style="max-width:100%;"></code> 
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/ts.png" style="max-width:100%;"></code>
 
 - **Back-end**
 
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/nodejs.jpg" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/graphQL.png" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/npm.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/nodejs.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/graphQL.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/npm.jpg" style="max-width:100%;"></code>
 
 - **Front-end**
  
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/reactjs.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/reactjs.png" style="max-width:100%;"></code>
 
 - **Databases**  
 
@@ -33,14 +33,14 @@ A passionate Engineer and Software Developer 🚀.
   <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/mongodb.jpeg" style="max-width:100%;"></code>
 
 - **Cloud & Open Source**  
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/github.jpg" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/heroku.png" style="max-width:100%;"></code>
-    <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/vercel.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/github.jpg" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/heroku.png" style="max-width:100%;"></code>
+    <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/vercel.png" style="max-width:100%;"></code>
 
 - **Tools**
 
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/postman.png" style="max-width:100%;"></code>
-  <code><img height="30" src="https://github.com/sbefaro/sbefaro/blob/master/assets/vscode.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/postman.png" style="max-width:100%;"></code>
+  <code><img height="30" src="https://github.com/SBefaro/SBefaro/blob/main/assets/vscode.png" style="max-width:100%;"></code>
 
 - 🔭 I’m currently working on my Full Stack Developer bootcamp final project (https://www.github.com/felipenougues/grupo_grupo4_proyecto)
 - ✨ I usually practise resolving challenges at Frontend Mentor (https://www.frontendmentor.io/profile/SBefaro)
