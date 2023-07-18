@@ -21,8 +21,15 @@
 - **Front-end**
  
   <code><img height="40" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" style="max-width:100%;"></code>
-    <code><img height="40" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" style="max-width:100%;"></code>
+  <code><img height="40" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" style="max-width:100%;"></code>
 
+
+- **Testing**
+ 
+  <code><img height="40" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" style="max-width:100%;"></code>
+  <code><img height="40" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" style="max-width:100%;"></code>
+
+    
 - **Databases**  
 
   <code><img height="40" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" style="max-width:100%;"></code>
