@@ -1,5 +1,5 @@
 ### Hi there, I'm [Stefano](https://github.com/SBefaro)  👋
-- ⚡ Engineer and Software Developer
+- ⚡ Software Engineer
 - 🚀 Currently working at Enigma.art, web3 NFT marketplace
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/stefanobefaro)
 
